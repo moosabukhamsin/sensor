@@ -5,7 +5,7 @@
 ```shell script
 git clone https://github.com/moosabukhamsin/sensor
 ```
-# create the required docker containers and install all dependencies
+# create docker containers and install dependencies
 2- run ./vendor/bin/sail up
 
 # run the scheduled tasks in the defined in the kernel
